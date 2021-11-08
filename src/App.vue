@@ -5,6 +5,7 @@
     <SearchFilter />
     <SearchResults />
     <Footer/>
+    <FilterButton />
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import Slider from "./components/Slider.vue";
 import SearchFilter from "./components/SearchFilter.vue";
 import SearchResults from "./components/SearchResults.vue";
 import Footer from "./components/Footer.vue";
+import FilterButton from "./components/FilterButton.vue";
 export default {
   name: "App",
   components: {
@@ -21,7 +23,8 @@ export default {
     Slider,
     SearchFilter,
     SearchResults,
-    Footer
+    Footer,
+    FilterButton
   },
 };
 </script>
