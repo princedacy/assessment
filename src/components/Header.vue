@@ -6,7 +6,6 @@
           <img alt="Logo" src="@/assets/images/logo1.png" />
         </div>
         <div class="menu">
-          <span class="pl-2">MENU</span>
           <font-awesome-icon icon="bars" />
         </div>
       </div>
