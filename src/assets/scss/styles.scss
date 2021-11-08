@@ -394,8 +394,12 @@ $red: #e20000;
             border: none;
           }
         }
-        .facebook::after {
-          content: "/f39e";
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            color: #D6D6D6;
+            font-size: 2em;
+            gap: 1em;
         }
       }
       .bottom-footer {

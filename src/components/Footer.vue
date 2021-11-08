@@ -8,11 +8,23 @@
           <li>Contatti</li>
           <li>Redazione</li>
         </ul>
-        <span class="youtube"></span>
-        <span class="facebook"></span>
-        <span class="twitter"></span>
-        <span class="instagram"></span>
-        <span class="rss"></span>
+        <div class="social-icons">
+          <span class="youtube">
+            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+          </span>
+          <span class="facebook"
+            ><i class="fa fa-facebook" aria-hidden="true"></i>
+          </span>
+          <span class="twitter">
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+          </span>
+          <span class="instagram">
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </span>
+          <span class="rss">
+            <i class="fa fa-rss" aria-hidden="true"></i>
+          </span>
+        </div>
       </div>
       <div class="bottom-footer">
         <div class="copyrights">
